@@ -24,11 +24,11 @@ This repository contains a Java program that simulates different behaviors of va
     3. Mute: Implements QuackBehaviour, representing a duck that is mute and cannot quack.
 
   * **SwimBehaviour**
-   The SwimBehaviour interface defines a method swim() that represents the swimming behavior of ducks. While most ducks are natural swimmers, some may have unique swimming styles or limitations.
-   
-   1. SwimWater: Implements SwimBehaviour, representing a duck that swims in water.
-   2. FloatWater: Implements SwimBehaviour, representing a duck that floats on water.
-   3. DrownWater: Implements SwimBehaviour, representing a duck that drowns in water.
+    The SwimBehaviour interface defines a method swim() that represents the swimming behavior of ducks. While most ducks are natural swimmers, some may have unique swimming styles or limitations.
+    
+    1. SwimWater: Implements SwimBehaviour, representing a duck that swims in water.
+    2. FloatWater: Implements SwimBehaviour, representing a duck that floats on water.
+    3. DrownWater: Implements SwimBehaviour, representing a duck that drowns in water.
 
 ## Classes
 * Main.java: Contains the main method to demonstrate duck behaviors.
